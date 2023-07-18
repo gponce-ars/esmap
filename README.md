@@ -12,7 +12,7 @@ This repository contains the scripts and datasets used in our manuscript, as wel
 
 ## Google Earth Engine Scripts
 
-The `GEE_scripts/` directory contains all scripts that were used to extract data from Google Earth Engine for our study. Each script is named according to the type of data it extracts and is documented with comments.
+The `GEE_SCRIPTS/` directory contains all scripts that were used to extract data from Google Earth Engine for our study. Each script is named according to the type of data it extracts and is documented with comments.
 
 ## R-Scripts
 
