@@ -1,6 +1,6 @@
 /*
 Name: model_builder.js
-GEE_link: https://code.earthengine.google.com/6a7859e51215c19300e14ab4a0ef89ae?noload=true
+GEE_link: https://code.earthengine.google.com/e487228ee5c3a40a5cea9bf1c706c26d?noload=true
 Goal: To Build models to scale up three variables across Sandy Loam Upland and Deep: 
   Description: The training points calculated based on each sensor resolution grid is used for
                building a model to predict metrics (LPI | MF | BG). Thresholds are the values used to split the eroded
@@ -14,7 +14,8 @@ Goal: To Build models to scale up three variables across Sandy Loam Upland and D
   Outputs:
   - Predicted metric across SLUD for both periods 
   - Eroded areas (1ha or larger) 
-
+  Author: Guillermo Ponce (geponce at arizona.edu)
+  Date: 02/12/2023
 */
 
 // LOAD DATASETS ------------------------------------------------------------------------------------------------------------------
