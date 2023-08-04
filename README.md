@@ -1,6 +1,8 @@
-# Resources for Manuscript "Using UAV and satellite-based sensing to detect eroded ecological states at the landscape scale"
+# Resources for Manuscript "UAV and satellite-based sensing to map ecological states at the landscape scale"
 
-This repository contains the scripts and datasets used in our manuscript, as well as additional resources related to our study. We use Google Earth Engine for remote sensing and drone data analyses and custom scripts to generate plots in R for some of the analysis.
+This repository contains the scripts and datasets employed in our manuscript, in addition to further resources related to our study. We use Google Earth Engine for remote sensing and drone data analyses, complemented by custom R-scripts to generate visualizations of data along with some tables with metrics. 
+
+Due to licensing restrictions pertaining to Planet data (i.e., PlanetScope), we are unable to provide direct access to the raw data used in this research. Should you require further information or wish to inquire about this specific dataset, or if you encounter any issues with the Google Earth Engine scripts, please contact the corresponding author directly.
 
 ## Table of Contents
 
