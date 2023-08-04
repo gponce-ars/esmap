@@ -18,7 +18,7 @@ if(any(v_installed_libs == F)) {
 }
 invisible(lapply(
   v_libs,
-  library,
+  library, 
   character.only = T
 ))
 
