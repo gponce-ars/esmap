@@ -1,4 +1,5 @@
 # Resources for Manuscript "UAV and satellite-based sensing to map ecological states at the landscape scale"
+![Article:](https://10.4236/oje.2023.138035)
 ![Grid_for_LPI_Calculatation](https://github.com/gponce-ars/esmap/assets/20215136/5188dd2d-81f0-47ba-8e40-3bc60f086b1f)
 
 This repository contains the scripts and datasets employed in our manuscript, in addition to further resources related to our study. We use Google Earth Engine for remote sensing and drone data analyses, complemented by custom R-scripts to generate visualizations of data along with some tables with metrics. 
